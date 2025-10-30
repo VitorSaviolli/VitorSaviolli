@@ -10,7 +10,7 @@ I enjoy building intelligent systems that combine theory with real-world applica
 - 💡 Constantly learning, experimenting, and building projects in **Python**  
 
 ## 🛠️ Tech Stack
-- Languages: Python, SQL  
+- Languages: Python,C,C++, SQL  
 - Libraries & Tools: NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, PyTorch, OpenCV  
 - Other Interests: Distributed Systems, Data Visualization, AI Applications  
 
