@@ -15,7 +15,7 @@ I enjoy building intelligent systems that combine theory with real-world applica
 - Other Interests: Distributed Systems, Data Visualization, AI Applications  
 
 ## 🌎 Let's Connect
-- 💼 [LinkedIn: Vitor Saviolli Gonsalez](www.linkedin.com/in/vitor-saviolli-gonsalez)  
+- 💼 [LinkedIn: Vitor Saviolli Gonsalez](www.linkedin.com/in/vitor-saviolli-gonsalez/)  
 - 📧 [Email: vitorsgonsalez@gmail.com](mailto:vitorsgonsalez@gmail.com) 
 
 ---
